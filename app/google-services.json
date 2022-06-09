@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117038410093",
+    "project_id": "tateti-ebbdb",
+    "storage_bucket": "tateti-ebbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117038410093:android:20d5944c84565c84789264",
+        "android_client_info": {
+          "package_name": "ar.com.develup.tateti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117038410093-mkf6q4artuedd3ru3udibpgr6gnd5v5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZoipydBO90JoZ8ZhPbTKLyZX1RKCl8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117038410093-mkf6q4artuedd3ru3udibpgr6gnd5v5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
