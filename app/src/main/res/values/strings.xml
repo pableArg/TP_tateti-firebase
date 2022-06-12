@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TaTeTi</string>
+    <string name="prefs_file">ar.com.develup.tateti.PREFERENCE_FILE_KEY</string>
 </resources>
